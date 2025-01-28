@@ -5,10 +5,10 @@
 
 <h3>My GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&count_private=true" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&count_private=true" alt="Lichu0800" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="Lichu0800" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
