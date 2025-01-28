@@ -40,14 +40,17 @@ Soy un desarrollador backend con interés en crear productos o servicios que sol
 
 <h3>GitHub Stats: </h3>
 
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="Lichu0800" />
+  </p>
+  <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="Lichu0800" /></p>
-
-<br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&count_private=true" alt="Lichu0800" /></p>
-
-<br><br><br><br><br><br><br>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&count_private=true" alt="Lichu0800" />
+  </p>
+  <br><br><br><br><br><br><br>
+</div>
 
 
 <hr width="60%" >
